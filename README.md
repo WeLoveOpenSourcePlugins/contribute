@@ -55,6 +55,12 @@ Additionally, projects that meet these criteria are strictly prohibited:
 
 Developers whose projects violate these guidelines will be notified (e.g. via an issue). If the issue(s) cannot or will not be resolved, the project and thus the repository may be removed from the organisation. Projects may also be removed for reasons that are not listed here (yet). Such cases will be communicated exhaustively.
 
+### Core Projects
+
+Aside from the aforementioned requirements, there are extra steps to take if you want your project to be distributed and published under the name of *WeLoveOpenSourcePlugins*. 
+
+*TBA...*
+
 ## How to Join
 
 Anyone can join this organisation, provided that they have one or more repositories or projects that they intend to create/move here. Simply create an issue in this repository outlining what you contribute and you will be invited.
