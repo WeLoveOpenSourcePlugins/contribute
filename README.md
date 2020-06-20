@@ -26,7 +26,7 @@ The project welcomes developers of all experience. Together we can learn and bui
 
 ## Project Requirements and Guidelines
 
-Generally, you are free in structuring your project in whatever way you prefer. While it is common practice, you need not take inspiration from a paid plugin for your project. Neither do we restrict you to use any particular language, library or framework. The only (and obvious) requirement is that your project is a *Spigot* plugin or a plugin for any of its forks. 
+Generally, you are free to structure your project in whatever way you prefer. For example, while it is common practice, you need not take inspiration from a paid plugin for your project. Neither do we restrict you to use any particular language, library or framework. The only (and obvious) requirement is that your project is a *Spigot* plugin or a plugin for any of its forks. 
 
 However, there are a few guidelines that your project **must** conform to:
 
@@ -42,7 +42,9 @@ However, there are a few guidelines that your project **must** conform to:
 
   - in an already usable/finished state
 
-Additionally, projects that meet this criteria are strictly prohibited:
+- When released, the project must have *some* sort of documentation 
+
+Additionally, projects that meet these criteria are strictly prohibited:
 
 - Malicious software, including plugins that
 
@@ -50,7 +52,7 @@ Additionally, projects that meet this criteria are strictly prohibited:
 
   - (intentionally) crash/stress clients or servers that have not consented
 
-  - otherwise intend to harm clients or servers in any way
+  - otherwise intend to harm clients or servers in any way or hide features from users
 
 Developers whose projects violate these guidelines will be notified (e.g. via an issue). If the issue(s) cannot or will not be resolved, the project and thus the repository may be removed from the organisation. Projects may also be removed for reasons that are not listed here (yet). Such cases will be communicated exhaustively.
 
