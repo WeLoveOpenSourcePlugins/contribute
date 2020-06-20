@@ -59,7 +59,17 @@ Developers whose projects violate these guidelines will be notified (e.g. via an
 
 Aside from the aforementioned requirements, there are extra steps to take if you want your project to be distributed and published under the name of *WeLoveOpenSourcePlugins*. 
 
-*TBA...*
+- Sophisticated documentation and guides must be available in English
+
+- The plugin's code must reach certain standards (it will be reviewed)
+
+- The project must adopt the structures used by WLOSP, including
+
+  - group id
+
+  - SpigotMC account for publishing
+
+  - dedicated Maven repository for Maven publications
 
 ## How to Join
 
