@@ -6,7 +6,7 @@
 
 Minecraft fascinates millions people to this day and Spigot has grown to be its most popular server software among end-users and developers alike. The demand for plugins that provide various enhancements and modifications of all kinds is still very high, new plugins are created and published every day. Spigot is especially popular among young and novice developers, often because it enables them to see their progress in an environment they know and love.
 
-While many big and popular Spigot plugins *are* open source, we think that there should be more of them. Too many plugins restrain their potential by being closed source and sometimes even obfuscated, although their builds are distributed freely. We see two factors that play a role in this observation: 
+While many big and popular Spigot plugins *are* open source, we think that there should be more of them. Too many plugins restrain their potential by being closed source and sometimes even obfuscated, ironically while their builds are distributed freely. We see two primary factors in this observation: 
 
 1. People simply haven't used open source before and wouldn't know how
 
@@ -26,7 +26,7 @@ The project welcomes developers of all experience. Together we can learn and bui
 
 ## Project Requirements and Guidelines
 
-Generally, you are free to structure your project in whatever way you prefer. For example, while it is common practice, you need not take inspiration from a paid plugin for your project. Neither do we restrict you to use any particular language, library or framework. The only (and obvious) requirement is that your project is a *Spigot* plugin or a plugin for any of its forks. 
+Generally, when contributing to WLOSP, you are free to structure your project in whatever way you prefer. For example, while it is common practice, you need not take inspiration from a paid plugin for your project. Neither do we restrict you to use any particular language, library or framework. The only (and obvious) requirement is that your project is a *Spigot* plugin or a plugin for any of its forks. 
 
 However, there are a few guidelines that your project **must** conform to:
 
