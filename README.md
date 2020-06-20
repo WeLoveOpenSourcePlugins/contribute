@@ -47,7 +47,6 @@ However, there are a few guidelines that your project **must** conform to:
 Additionally, projects that meet these criteria are strictly prohibited:
 
 - Malicious software, including plugins that
-
   - unsolicitely modify/corrupt/delete files on the installed server
 
   - (intentionally) crash/stress clients or servers that have not consented
@@ -62,6 +61,10 @@ Anyone can join this organisation, provided that they have one or more repositor
 
 ## Helpful Resources
 
+### Project Template
+
+*An example template for upcoming WLOSP projects will follow here*
+
 ### Learning
 
 *A list of resources about programming, Spigot, git etc. will follow here*
@@ -69,5 +72,3 @@ Anyone can join this organisation, provided that they have one or more repositor
 ### Tools
 
 *A list of useful tools, libraries and frameworks for plugin development will follow here*
-
- 
