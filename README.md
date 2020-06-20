@@ -73,7 +73,7 @@ Aside from the aforementioned requirements, there are extra steps to take if you
 
 ## How to Join
 
-Anyone can join this organisation, provided that they have one or more repositories or projects that they intend to create/move here. Simply create an issue in this repository outlining what you contribute and you will be invited.
+Anyone can join this organisation, provided that they have one or more repositories/projects that they intend to create/move here. Simply create an issue in this repository outlining what you would like to contribute and you will be invited.
 
 ## Helpful Resources
 
