@@ -21,6 +21,7 @@ If so, is it..
 - [ ] not free?
 - [ ] not open source?
 - [ ] incomplete?
+- [ ] outdated?
 
 ## Additional comments
 If needed, provide further information here.
