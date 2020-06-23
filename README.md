@@ -1,5 +1,7 @@
 # WeLoveOpenSourcePlugins
 
+**This document is still work in progress and incomplete.**
+
 *WeLoveOpenSourcePlugins* is an organisation aimed at creating and maintaining open source plugins for the [Minecraft](https://minecraft.net) server software [Spigot](https://www.spigotmc.org/) and all of its descendants/forks such as [Paper](https://papermc.io) or [Taco](https://tacospigot.github.io/).
 
 ## Rationale
